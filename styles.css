@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    font-family: sans-serif;
+    color: white;
+}
+
+main {
+    width: 52.5%;
+    margin: auto;
+    height: 350px;
+    margin-top: 2px;
+}
+
+button {
+    background: red;
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 20px;
+    width: 268px;
+    margin: -2px;
+}
+
+#left {
+    background-color: blue;
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+
+#right {
+    background-color:green;
+    width:50%;
+    float:right;
+    height:100%;	
+}
+
+img {
+    margin: 20px;
+    width: 90%;
+    height: 80%;
+}
